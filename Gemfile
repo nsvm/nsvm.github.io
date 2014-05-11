@@ -20,3 +20,5 @@ gem "middleman-deploy"
 gem "middleman-blog"
 
 gem 'middleman-minify-html'
+
+gem "middleman-disqus"

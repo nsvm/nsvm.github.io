@@ -85,3 +85,7 @@ activate :blog do |blog|
 end
 
 activate :directory_indexes
+
+activate :disqus do |d|
+  d.shortname = "nsvm"
+end
