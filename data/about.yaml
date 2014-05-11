@@ -1,0 +1,76 @@
+
+image: http://placehold.it/750x450
+
+title: Welcome to Modern Business
+
+description: <p>This is a great place to introduce your company or project and describe what you do. This about page features general company information, employee bios, and other helpful elements.</p><p>Lid est laborum dolo rumes fugats untras. Etharums ser quidem rerum facilis dolores nemis omnis fugats vitaes nemo minima rerums unsers sadips amets.. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.</p>
+
+partners:
+  1:
+    name: Anand Menon
+    job: CEO 
+    description: What does this team member do? Keep it short! This is also a great spot for social links!
+    facebook: http://www.facebook.com
+    twitter: http://www.twitter.com
+    linkedin: http://www.linkedin.com
+    google_plus: http://plus.google.com
+  2:
+    name: Anand Menon
+    job: CEO 
+    description: What does this team member do? Keep it short! This is also a great spot for social links!
+    facebook: http://www.facebook.com
+    twitter: http://www.twitter.com
+    linkedin: http://www.linkedin.com
+    google_plus: http://plus.google.com
+  3:
+    name: Anand Menon
+    job: CEO 
+    description: What does this team member do? Keep it short! This is also a great spot for social links!
+    facebook: http://www.facebook.com
+    twitter: http://www.twitter.com
+    linkedin: http://www.linkedin.com
+    google_plus: http://plus.google.com
+  4:
+    name: Anand Menon
+    job: CEO 
+    description: What does this team member do? Keep it short! This is also a great spot for social links!
+    facebook: http://www.facebook.com
+    twitter: http://www.twitter.com
+    linkedin: http://www.linkedin.com
+    google_plus: http://plus.google.com
+  5:
+    name: Anand Menon
+    job: CEO 
+    description: What does this team member do? Keep it short! This is also a great spot for social links!
+    facebook: http://www.facebook.com
+    twitter: http://www.twitter.com
+    linkedin: http://www.linkedin.com
+    google_plus: http://plus.google.com
+  6:
+    name: Anand Menon
+    job: CEO 
+    description: What does this team member do? Keep it short! This is also a great spot for social links!
+    facebook: http://www.facebook.com
+    twitter: http://www.twitter.com
+    linkedin: http://www.linkedin.com
+    google_plus: http://plus.google.com
+
+customers:
+  1:
+    name: Crowl Ventures
+    image: http://placehold.it/500x300
+  2:
+    name: Crowl Ventures
+    image: http://placehold.it/500x300
+  3:
+    name: Crowl Ventures
+    image: http://placehold.it/500x300
+  4:
+    name: Crowl Ventures
+    image: http://placehold.it/500x300
+  5:
+    name: Crowl Ventures
+    image: http://placehold.it/500x300
+  6:
+    name: Crowl Ventures
+    image: http://placehold.it/500x300

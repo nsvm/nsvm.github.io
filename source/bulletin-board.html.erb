@@ -1,21 +1,40 @@
 
 <div class="container">
 
+  <div class="row">
+    
+    <div class="col-xs-12">
+      <h1 class="page-header">Bulletin Board</h1>
+      <ol class="breadcrumb">
+        <li><a href="<%= data.site.url %>">Home</a>
+        </li>
+        <li class="active">Bulletin Board</li>
+      </ol>
+    </div>
+    
+  </div>
+  
+  <div class="row">
 
-  <iframe id="forum_embed"
-	  src="javascript:void(0)"
-	  scrolling="yes"
-	  frameborder="0"
-	  width="100%"
-	  height="700">
-  </iframe>
-  
-  <script type="text/javascript">
-    document.getElementById("forum_embed").src =
-    "https://groups.google.com/forum/embed/?place=forum/nsvm-bulletin" +
-    "&showsearch=false&showpopout=false&showtabs=false&hideforumtitle=true&hidesubject=true&parenturl=" +
-    encodeURIComponent(window.location.href);
-  </script>
-  
+    <div class="col-xs-12">
+
+      <iframe id="forum_embed"
+	      src="javascript:void(0)"
+	      scrolling="yes"
+	      frameborder="0"
+	      width="100%"
+	      height="700">
+      </iframe>
+      
+      <script type="text/javascript">
+	document.getElementById("forum_embed").src =
+	"https://groups.google.com/forum/embed/?place=forum/nsvm-bulletin" +
+	"&showsearch=false&showpopout=false&showtabs=false&hideforumtitle=true&hidesubject=true&parenturl=" +
+	encodeURIComponent(window.location.href);
+      </script>
+      
+    </div>
+
+  </div>
   
 </div>
