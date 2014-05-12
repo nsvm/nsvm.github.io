@@ -89,3 +89,6 @@ activate :directory_indexes
 activate :disqus do |d|
   d.shortname = "nsvm"
 end
+
+activate :php
+

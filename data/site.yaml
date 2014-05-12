@@ -1,21 +1,32 @@
-name: name
 
 title: Title
 
-url: http://nsvm.github.io
+brand: nsvm.png
 
-tagline: some tagline
+carousels:
+  1:
+    image_text: Slide One
+    caption: caption one
+  2:
+    image_text: Slide Two
+    caption: caption two
+  3:
+    image_text: Slide Three
+    caption: caption three
 
-location: World Wide Web
+highlights:
+  1:
+    name: highlight one
+    detail: some details
+  2:
+    name: highlight two
+    detail: some details
+  3:
+    name: highlight three
+    detail: some details
 
-description:
-  summary: Not specified
-  left:  Not specified
-  right:  Not specified
-
-social:
-  facebook: http://www.facebook.com
-  google_plus: http://plus.google.com
-  twitter: http://www.twitter.com
+description: N S V M & Associates is a chartered accountant’s firm having a pool of professionals possessing varied skill sets geared to meet the complexities and challenges of modern day business.  The talent pool enables us to offer professional services in areas of Statutory Audit, Direct and Indirect Taxation, Internal Audit- systems, procedures and operations, corporate law matters, Due Diligence studies, Business Valuations and Investment structuring, FEMA including Entry strategies, EXIM Policy related services, Business plans, Debt structuring & syndication, among others.
 
 copyright: Copyright not specified
+
+credit: Powered by <a target="_blank" href="http://www.crowlventures.com">Crowl Ventures</a>

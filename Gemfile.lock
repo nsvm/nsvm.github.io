@@ -80,6 +80,8 @@ GEM
       rack-livereload
     middleman-minify-html (3.1.1)
       middleman-core (~> 3.0)
+    middleman-php (0.0.1)
+      middleman-core (>= 3.2.1)
     middleman-sprockets (3.3.3)
       middleman-core (>= 3.2)
       sprockets (~> 2.2)
@@ -137,5 +139,6 @@ DEPENDENCIES
   middleman-disqus
   middleman-livereload (~> 3.1.0)
   middleman-minify-html
+  middleman-php
   tzinfo-data
   wdm (~> 0.1.0)
