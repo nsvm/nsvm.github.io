@@ -1,19 +1,14 @@
 
-title: Title
+title: NSVM & Associates
 
-brand: nsvm.png
+brand: nil
 
 carousels:
   1:
     image_text: Slide One
     caption: caption one
-  2:
-    image_text: Slide Two
-    caption: caption two
-  3:
-    image_text: Slide Three
-    caption: caption three
-
+  
+  
 highlights:
   1:
     name: highlight one
