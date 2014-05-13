@@ -1,22 +1,24 @@
 
 image: http://placehold.it/1200x300
 
-title: Our Premium Services
+title: Our Services
 
-description: Lid est laborum dolo rumes fugats untras. Etharums ser quidem rerum facilis dolores nemis omnis fugats vitaes nemo minima rerums unsers sadips amets. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+description: <p> N S V M provides a comprehensive range of services as detailed below. As mentioned earlier the Firm has professionals with varied skill sets and therefore is able to offer services with a multidisciplinary approach. The Firms objective has been to provide a one stop shop for clients seeking multiple range of professional services.</p> <p>NSVM endeavours to work with clients from the very beginning, participating and being part of the growth of their businesses. </p>
 
-subtitle: Tabbed Services
+subtitle: nil
 
 services:
 
   1:
-    name: Service One
+    name: STATUTORY AUDIT
     image: http://placehold.it/750x450
-    description: <p>1. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc placerat diam quis nisl vestibulum dignissim. In hac habitasse platea dictumst. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Etiam placerat nunc ut tellus tristique, non posuere neque iaculis. Fusce aliquet dui ut felis rhoncus, vitae molestie mauris auctor. Donec pellentesque feugiat leo a adipiscing. Pellentesque quis tristique eros, sed rutrum mauris.</p><p>Nam fringilla quis enim in eleifend. Suspendisse sed lectus mauris. Nam commodo, arcu et posuere placerat, tellus tortor dignissim eros, sit amet eleifend urna lorem sit amet nulla. Praesent sem nibh, vulputate nec congue eu, dapibus vitae augue. Suspendisse cursus urna sit amet metus porttitor, in pharetra quam feugiat. Etiam tempus euismod nulla eget pellentesque.</p>
+    description: <p>We perform Statutory Audits for Private, Public and Government Companies under the Companies Act. We also undertake Tax audit of Companies, Firms and Proprietary concerns under The Income Tax Act. Our practises are compliant with Standards of Quality Control (SQC) set by the ICAI.We undertake and structure our Audits based on the requirements of each client but broadly involves the following </p> 
     points:
-      1: point 1
-      2: point 2
-      3: point 3
+      1: A well structured Audit program inclusive of Sampling Techniques based on   client needs
+      2: Following materiality concept and Reviewing Internal Controls
+      3: Primary auditing / cross checking
+      4: Compliance with Indian Accounting Standards (AS) International Accounting Standards (IAS), Standard Auditing Practices (SAP)
+      5: Use of statistical tools and audit software packages
   2:
     name: Service Two
     image: http://placehold.it/750x450
