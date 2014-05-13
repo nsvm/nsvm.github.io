@@ -10,7 +10,7 @@ subtitle: nil
 services:
 
   1:
-    name: STATUTORY AUDIT
+    name: Statutory Audit
     image: http://placehold.it/750x450
     description: <p>We perform Statutory Audits for Private, Public and Government Companies under the Companies Act. We also undertake Tax audit of Companies, Firms and Proprietary concerns under The Income Tax Act. Our practises are compliant with Standards of Quality Control (SQC) set by the ICAI.We undertake and structure our Audits based on the requirements of each client but broadly involves the following </p> 
     points:
@@ -20,16 +20,97 @@ services:
       4: Compliance with Indian Accounting Standards (AS) International Accounting Standards (IAS), Standard Auditing Practices (SAP)
       5: Use of statistical tools and audit software packages
   2:
-    name: Service Two
+    name: Taxation
     image: http://placehold.it/750x450
-    description: <p>2. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc placerat diam quis nisl vestibulum dignissim. In hac habitasse platea dictumst. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Etiam placerat nunc ut tellus tristique, non posuere neque iaculis. Fusce aliquet dui ut felis rhoncus, vitae molestie mauris auctor. Donec pellentesque feugiat leo a adipiscing. Pellentesque quis tristique eros, sed rutrum mauris.</p><p>Nam fringilla quis enim in eleifend. Suspendisse sed lectus mauris. Nam commodo, arcu et posuere placerat, tellus tortor dignissim eros, sit amet eleifend urna lorem sit amet nulla. Praesent sem nibh, vulputate nec congue eu, dapibus vitae augue. Suspendisse cursus urna sit amet metus porttitor, in pharetra quam feugiat. Etiam tempus euismod nulla eget pellentesque.</p>
+    description: nil
+    points:
+      1: Advice to clients on all aspects of Tax planning suitable for their businesses
+      2: Representing before assessing authorities for expeditious completion of assessments.
+      3: Handling of all raid/survey matters and preparation and proper representations before appropriate authorities.
+      4: Advise clients on all compliances required such as TDS etc.
+      5: Specialised services such as transfer pricing where it is applicable.
 
+    
   3:
-    name: Service Three
+    name: Company Law & Legal
     image: http://placehold.it/750x450	
-    description: <p>3. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc placerat diam quis nisl vestibulum dignissim. In hac habitasse platea dictumst. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Etiam placerat nunc ut tellus tristique, non posuere neque iaculis. Fusce aliquet dui ut felis rhoncus, vitae molestie mauris auctor. Donec pellentesque feugiat leo a adipiscing. Pellentesque quis tristique eros, sed rutrum mauris.</p><p>Nam fringilla quis enim in eleifend. Suspendisse sed lectus mauris. Nam commodo, arcu et posuere placerat, tellus tortor dignissim eros, sit amet eleifend urna lorem sit amet nulla. Praesent sem nibh, vulputate nec congue eu, dapibus vitae augue. Suspendisse cursus urna sit amet metus porttitor, in pharetra quam feugiat. Etiam tempus euismod nulla eget pellentesque.</p>
-
-
+    description: nil
+    Points:
+      1: Incorporation of Companies which includes the whole Gamut of services commencing from Name approval onwards.
+      2: Advice and undertake compliances required under the Companies act.
+      3: Handling issues such as liquidation of Companies, Managerial remuneration, Charges to be filed, etc
+      4: The issues relating to mergers and acquisitions, and advise on Chapter9 Conversions
   
+  
+  4:
+    name: Structuring Real Estate Proposals
+    image: http://placehold.it/750x450	
+    description: nil
+    Points:
+      1: Structuring and advice on Joint Development arrangements.
+      2: All aspects of Mergers and demergers including valuations, Hiving of properties Into SPV and all technicalities involved in such transactions.
+      3: Handling issues such as liquidation of Companies, Managerial remuneration, Charges to be filed, etc
+      4: Advising clients on all aspects of such transactions including impact of Stamp duty, Income tax act including capital gains and structuring proposals accordingly.
+  
+  
+  5:
+    name: Start-Up Compnaies
+    image: http://placehold.it/750x450	
+    description: <p>Offering a One Stop solution to start up companies starting from Incorporation to the whole range of approvals required like EOU, VAT, EXCISE , Service tax, Shops and Establishments, Labour laws etc. It also provides advice on the entry strategies and support to Non Residents/overseas Companies wanting to set up shop in India.</p>
+    Points:
+      1: Preparation of business plans and viability studies.
+      2: Financial structuring.
+      3: Restructuring proposals.
+      4: Debt structuring.
+      5: Due diligence studies
+      6: Investment advice including terms sheet, advise on structuring Shareholders Agreements, etc
+      
+      
+  6:
+    name: Internal Audits / Systems & Procedures
+    image: http://placehold.it/750x450	
+    description: <p>Depending on the agreed scope of work with the client, the services could include any or all of the following areas.</p>
+    Points:
+      1: Study and advise on systems and processes and suggest a suitable system for the organization
+      2: Study and implement a proper internal control system.
+      3: Carry out internal audit of all accounting transactions including vouching, ledger review etc.
+      4: Verify all statutory compliances.
+      5: Review contracts and compliance to contractual terms.
+      6: Detailed proprietary and operations audit.
+      7: Sales review- invoices, returns, maintenance, guarantees and warranties, penalties etc
+      8: Credit and Debit notes
+      9: Receivables and payables
+      10:Costing systems and efficiency audit.
+      11:Payroll.
+      12:Inventory – age analysis, review and reporting of non moving stocks etc.
+      13:Purchases
+      14:Insurance and security of assets
+      
+      
+  7:
+    name: Services To Banking Sector
+    image: http://placehold.it/750x450	
+    description: nil
+    Points:
+      1: Concurrent Audits.
+      2: Credit Appraisal & Review outsourced by Banks.
+      3: Stock Audits.
+      4: Statutory Audit of Bank branches
+      5: Income Leakage Audits
+      6: Credit Audits
+      7: Risk Based Audits
+      
 
-
+  8:
+    name: Accounting & Manangement Services
+    image: http://placehold.it/750x450	
+    description: <p>The firm through an independent associate arm undertakes onsite management of the entire Accounting and financial services including reporting requirements as required by the clients and all matters relating to statutory compliances.</p>
+    Points: nil
+    
+    
+  9:
+    name: Other Services
+    image: http://placehold.it/750x450	
+    description: <p>Advise on EXIM policy related matters including necessary applications and Handling of paper work  and Advise on FEMA matters.</p> <p>The firm also has a network of Consultants through whom it offers services on VAT and Service tax etc.</p>
+    Points: nil      
+      
