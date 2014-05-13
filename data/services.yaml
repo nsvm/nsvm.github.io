@@ -13,7 +13,10 @@ services:
     name: Service One
     image: http://placehold.it/750x450
     description: <p>1. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc placerat diam quis nisl vestibulum dignissim. In hac habitasse platea dictumst. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Etiam placerat nunc ut tellus tristique, non posuere neque iaculis. Fusce aliquet dui ut felis rhoncus, vitae molestie mauris auctor. Donec pellentesque feugiat leo a adipiscing. Pellentesque quis tristique eros, sed rutrum mauris.</p><p>Nam fringilla quis enim in eleifend. Suspendisse sed lectus mauris. Nam commodo, arcu et posuere placerat, tellus tortor dignissim eros, sit amet eleifend urna lorem sit amet nulla. Praesent sem nibh, vulputate nec congue eu, dapibus vitae augue. Suspendisse cursus urna sit amet metus porttitor, in pharetra quam feugiat. Etiam tempus euismod nulla eget pellentesque.</p>
-
+    points:
+      1: point 1
+      2: point 2
+      3: point 3
   2:
     name: Service Two
     image: http://placehold.it/750x450
