@@ -43,7 +43,7 @@ services:
   
   
   4:
-    name: Structuring Real Estate Proposals
+    name: Real Estate
     image: /images/nsvm/about.jpg
     description: nil
     points:
@@ -67,7 +67,7 @@ services:
       
       
   6:
-    name: Internal Audits / Systems & Procedures
+    name: Internal Audits
     image: /images/nsvm/about.jpg
     description: <p>Depending on the agreed scope of work with the client, the services could include any or all of the following areas.</p>
     points:
@@ -87,7 +87,7 @@ services:
       14: Insurance and security of assets
       
   7:
-    name: Services To Banking Sector
+    name: Banking Sector
     image: /images/nsvm/about.jpg
     description: nil
     points:
@@ -100,14 +100,11 @@ services:
       7: Risk Based Audits
       
   8:
-    name: Accounting & Manangement Services
+    name: Accounting & Manangement
     image: /images/nsvm/about.jpg
     description: <p>The firm through an independent associate arm undertakes onsite management of the entire Accounting and financial services including reporting requirements as required by the clients and all matters relating to statutory compliances.</p>
     points: nil
     
-  9:
-    name: Other Services
-    image: /images/nsvm/about.jpg
-    description: <p>Advise on EXIM policy related matters including necessary applications and Handling of paper work  and Advise on FEMA matters.</p> <p>The firm also has a network of Consultants through whom it offers services on VAT and Service tax etc.</p>
-    points: nil      
+other_services: <p>Advise on EXIM policy related matters including necessary applications and Handling of paper work  and Advise on FEMA matters.</p><p>The firm also has a network of Consultants through whom it offers services on VAT and Service tax etc.</p>
+
       
