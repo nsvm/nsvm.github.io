@@ -5,7 +5,7 @@ brand: nil
 
 carousels:
   1:
-    image: images/nsvm/main.jpg
+    image: /images/nsvm/main.jpg
     image_text: Slide One
     caption: caption one
   

@@ -1,5 +1,5 @@
 
-image: images/nsvm/services.jpg
+image: /images/nsvm/services.jpg
 
 title: Our Services
 
@@ -11,7 +11,7 @@ services:
 
   1:
     name: Statutory Audit
-    image: images/nsvm/about.jpg
+    image: /images/nsvm/about.jpg
     description: <p>We perform Statutory Audits for Private, Public and Government Companies under the Companies Act. We also undertake Tax audit of Companies, Firms and Proprietary concerns under The Income Tax Act. Our practises are compliant with Standards of Quality Control (SQC) set by the ICAI.We undertake and structure our Audits based on the requirements of each client but broadly involves the following </p> 
     points:
       1: A well structured Audit program inclusive of Sampling Techniques based on   client needs
@@ -21,7 +21,7 @@ services:
       5: Use of statistical tools and audit software packages
   2:
     name: Taxation
-    image: images/nsvm/about.jpg
+    image: /images/nsvm/about.jpg
     description: nil
     points:
       1: Advice to clients on all aspects of Tax planning suitable for their businesses
@@ -33,7 +33,7 @@ services:
     
   3:
     name: Company Law & Legal
-    image: images/nsvm/about.jpg
+    image: /images/nsvm/about.jpg
     description: nil
     points:
       1: Incorporation of Companies which includes the whole Gamut of services commencing from Name approval onwards.
@@ -44,7 +44,7 @@ services:
   
   4:
     name: Structuring Real Estate Proposals
-    image: images/nsvm/about.jpg
+    image: /images/nsvm/about.jpg
     description: nil
     points:
       1: Structuring and advice on Joint Development arrangements.
@@ -55,7 +55,7 @@ services:
   
   5:
     name: Start-Up Compnaies
-    image: images/nsvm/about.jpg
+    image: /images/nsvm/about.jpg
     description: <p>Offering a One Stop solution to start up companies starting from Incorporation to the whole range of approvals required like EOU, VAT, EXCISE , Service tax, Shops and Establishments, Labour laws etc. It also provides advice on the entry strategies and support to Non Residents/overseas Companies wanting to set up shop in India.</p>
     points:
       1: Preparation of business plans and viability studies.
@@ -68,7 +68,7 @@ services:
       
   6:
     name: Internal Audits / Systems & Procedures
-    image: images/nsvm/about.jpg
+    image: /images/nsvm/about.jpg
     description: <p>Depending on the agreed scope of work with the client, the services could include any or all of the following areas.</p>
     points:
       1: Study and advise on systems and processes and suggest a suitable system for the organization
@@ -88,7 +88,7 @@ services:
       
   7:
     name: Services To Banking Sector
-    image: images/nsvm/about.jpg
+    image: /images/nsvm/about.jpg
     description: nil
     points:
       1: Concurrent Audits.
@@ -101,13 +101,13 @@ services:
       
   8:
     name: Accounting & Manangement Services
-    image: images/nsvm/about.jpg
+    image: /images/nsvm/about.jpg
     description: <p>The firm through an independent associate arm undertakes onsite management of the entire Accounting and financial services including reporting requirements as required by the clients and all matters relating to statutory compliances.</p>
     points: nil
     
   9:
     name: Other Services
-    image: images/nsvm/about.jpg
+    image: /images/nsvm/about.jpg
     description: <p>Advise on EXIM policy related matters including necessary applications and Handling of paper work  and Advise on FEMA matters.</p> <p>The firm also has a network of Consultants through whom it offers services on VAT and Service tax etc.</p>
     points: nil      
       
