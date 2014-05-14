@@ -42,7 +42,11 @@
     
     <div class="col-lg-12">
 
+      <% if(data.services.subtitle != 'nil') %>
       <h2 class="page-header"><%= data.services.subtitle %></h2>
+      <% else %>
+      <br><br>
+      <% end %>
 
       <ul id="myTab" class="nav nav-tabs">
 
@@ -65,7 +69,21 @@
 	    <img class="img-responsive" src="<%= data.services.services[service_id].image %>">
 	  </div>
 	  <div class="col-sm-8">
+
+	    <h4><u><%= data.services.services[service_id].name %></u></h4>
+
+	    <% if(data.services.services[service_id].description != 'nil') %>
             <%= data.services.services[service_id].description %>
+	    <% end %>
+
+	    <% if(data.services.services[service_id].points != 'nil') %>
+	    <ul>
+	      <% for point_id in data.services.services[service_id].points.keys %>
+	        <li><%= data.services.services[service_id].points[point_id] %></li>
+	      <% end %>
+	    </ul>
+	    <% end %>
+
 	  </div>
         </div>
 

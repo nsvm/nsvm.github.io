@@ -27,7 +27,7 @@ title: Home
     
 
     <div class="<%= (carousel_id==1) ? 'item active' : 'item' %>">
-      <div class="fill" style="background-image:url('http://placehold.it/1900x1080&text=<%= image_text %>');"></div>
+      <div class="fill" style="background-image:url('<%= data.site.carousels[carousel_id].image %>');"></div>
       <div class="carousel-caption">
         <h1><%= caption %></h1>
       </div>
