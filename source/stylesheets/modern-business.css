@@ -198,4 +198,39 @@ footer {
 }
 
 
+.navbar-custom {
+    border-radius:0;
+    border: none;
+    padding: 15px 0;
+    background: url('/images/nsvm/header-footer.png');
+}
 
+.navbar-custom .navbar-nav > li > a {
+    text-shadow: none;
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+}
+
+.navbar-custom .navbar-nav > .active > a, .navbar-nav > .active > a:hover, .navbar-nav > .active > a:focus {
+    color: white !important;
+    background: #2E3436;
+}
+
+.navbar-custom .navbar-brand {
+    font-weight: bold;
+    font-size: 20px;
+    color:#eeeeee;
+}
+
+.custom-body {
+  padding: 30px 0;
+
+}
+
+.page-header {
+  border-bottom: 1px solid #ddd;
+}
