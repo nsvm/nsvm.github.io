@@ -1,80 +1,60 @@
+---
+title: Contact
+tagline: We'd Love to Hear From You!
+---
 
-<div class="container">
-
-  <div class="row">
+<div class="row">
+  
+  <div class="col-xs-8">
+    <!-- Embedded Google Map using an iframe - to select your location find it on Google maps and paste the link as the iframe src. If you want to use the Google Maps API instead then have at it! -->
+    <iframe width="100%" height="400px" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" 
+            src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3887.7729443359995!2d77.5763667!3d12.9863693!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae161654fad2c1%3A0xa0272a52eeec13cc!2s19%2F1%2C+Railway+Parallel+Rd%2C+Nehru+Nagar%2C+Seshadripuram!5e0!3m2!1sen!2sin!4v1400067110697">
+    </iframe>
+  </div>
+  
+  <div class="col-sm-4">
     
-    <div class="col-lg-12">
-      <h1 class="page-header">Contact
-	<small>We'd Love to Hear From You!</small>
-      </h1>
-      <ol class="breadcrumb">
-        <li><a href="/">Home</a>
-        </li>
-        <li class="active">Contact</li>
-      </ol>
+    <h3><%= data.contact.name %></h3>
+    <h4><%= data.contact.tagline %></h4>
+    
+    <p><%= data.contact.address %></p>
+    
+    <p><i class="fa fa-phone"></i><abbr title="Phone">P</abbr>: <%= data.contact.phone %></p>
+    <p><i class="fa fa-envelope-o"></i> <abbr title="Email">E</abbr>: <a href="mailto:<%= data.contact.email %>"><%= data.contact.email %></a></p>
+    <p><i class="fa fa-clock-o"></i> <abbr title="Hours">H</abbr>: <%= data.contact.working_hrs %></p>
+    
+    <ul class="list-unstyled list-inline list-social-icons">
+      
+      <% if(data.contact.linkedin != 'nil') %>
+      <li class="tooltip-social linkedin-link">
+	<a href="<%= data.contact.linkedin %>" data-toggle="tooltip" data-placement="top" title="LinkedIn">
+	  <i class="fa fa-linkedin-square fa-2x"></i>
+	</a>
+      </li>
+      <% end %>
+      
+    </ul>
+    
+    <div class="col-sm-4">
+      <img class="img-responsive" src="/images/nsvm/nsvm.png">
     </div>
     
   </div>
   
-  <div class="row">
-
-    <div class="col-xs-8">
-
-      <!-- Embedded Google Map using an iframe - to select your location find it on Google maps and paste the link as the iframe src. If you want to use the Google Maps API instead then have at it! -->
-      <iframe width="100%" height="400px" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" 
-        src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3887.7729443359995!2d77.5763667!3d12.9863693!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae161654fad2c1%3A0xa0272a52eeec13cc!2s19%2F1%2C+Railway+Parallel+Rd%2C+Nehru+Nagar%2C+Seshadripuram!5e0!3m2!1sen!2sin!4v1400067110697">
-      </iframe>
-
-    </div>
-
-
-
-
-
-    <div class="col-sm-4">
-    
-      <h3><%= data.contact.name %></h3>
-      <h4><%= data.contact.tagline %></h4>
-
-      <p><%= data.contact.address %></p>
-
-      <p><i class="fa fa-phone"></i><abbr title="Phone">P</abbr>: <%= data.contact.phone %></p>
-      <p><i class="fa fa-envelope-o"></i> <abbr title="Email">E</abbr>: <a href="mailto:<%= data.contact.email %>"><%= data.contact.email %></a></p>
-      <p><i class="fa fa-clock-o"></i> <abbr title="Hours">H</abbr>: <%= data.contact.working_hrs %></p>
-
-      <ul class="list-unstyled list-inline list-social-icons">
-
-	<% if(data.contact.linkedin != 'nil') %>
-        <li class="tooltip-social linkedin-link">
-	  <a href="<%= data.contact.linkedin %>" data-toggle="tooltip" data-placement="top" title="LinkedIn">
-	    <i class="fa fa-linkedin-square fa-2x"></i>
-	  </a>
-	</li>
-	<% end %>
-	
-      </ul>
-
-      <div class="col-sm-4">
-	<img class="img-responsive" src="/images/nsvm/nsvm.png">
-      </div>
-      
-    </div>
-
-  </div>
-
-  <br>
-  <hr>
-  <br>
-
-  <div class="row">
-    
-    <div class="col-sm-12">
-      <iframe src="https://docs.google.com/spreadsheet/embeddedform?formkey=dGMyVWt6dVZOZWtVU3BxaWt3SUxBMVE6MA"
-	      width="100%" height="721" frameborder="0" marginheight="0" marginwidth="0">
-	Loading...
-      </iframe>
-    </div>
-    
-  </div>
-    
 </div>
+
+<br>
+<hr>
+<br>
+
+<div class="row">
+  
+  <div class="col-sm-12">
+    <iframe src="https://docs.google.com/spreadsheet/embeddedform?formkey=dGMyVWt6dVZOZWtVU3BxaWt3SUxBMVE6MA"
+	    width="100%" height="721" frameborder="0" marginheight="0" marginwidth="0">
+      Loading...
+    </iframe>
+  </div>
+  
+</div>
+

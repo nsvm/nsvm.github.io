@@ -40,12 +40,9 @@
       <!-- Collect the nav links, forms, and other content for toggling -->
       <div class="collapse navbar-collapse navbar-ex1-collapse">
         <ul class="nav navbar-nav navbar-right">
-          <li><a href="/">Home</a></li>
-          <li><a href="/services">Services</a></li>
-          <li><a href="/forum">Forum</a></li>
-	  <li><a href="/bulletin-board">Bulletin Board</a></li>
-	  <li><a href="/contact">Contact</a></li>
-	  <li><a href="/about">About</a></li>
+          <li><a href="/"><i class="fa fa-home"></i> Home</a></li>
+          <li><a href="/services"><i class="fa fa-gear"></i> Services</a></li>
+	  <li><a href="/contact"><i class="fa fa-envelope"></i> Contact</a></li>
 	</ul>
       </div>
       <!-- /.navbar-collapse -->
@@ -53,26 +50,64 @@
     <!-- /.container -->
   </nav>
 
-<br>
+  <br>
 
+  <% if(data.page.title != 'Home') %>
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12">
+	<h1 class="page-header"><%= data.page.title %>
+	  <% if() %>
+          &nbsp;<small><%= data.page.tagline %></small>
+	  <% end %>
+	</h1>
+	<ol class="breadcrumb">
+          <li><a href="<%= data.site.url %>">Home</a></li>
+          <li class="active"><%= data.page.title %></li>
+	</ol>
+      </div>
+    </div>
+    
     <%= yield %>
+
+  </div>
+  <% else %>
+  <%= yield %>
+  <% end %>
 
   <div class="container">
     
     <hr>
     
     <footer>
-      <div class="row">
-                <div class="col-sm-8">
-                    <p><%= data.site.copyright %></p>
-                </div>
-                <div class="col-sm-4">
-                  <p class="text-right"><small><%= data.site.credit %></small></p>
-                </div>
-            </div>
-        </footer>
 
-    </div>
+      <div class="row">
+        <div class="col-sm-12">
+          <a href="/">Home</a> - 
+	  <a href="/services">Services</a> - 
+	  <a href="/forum">Forum</a> - 
+	  <a href="/bulletin-board">Bulletin Board</a> - 
+	  <a href="/faqs">FAQ</a> - 
+	  <a href="/career">Career</a> - 
+	  <a href="/about">About</a> -
+	  <a href="/contact">Contact</a>
+        </div>
+      </div>
+
+      <br>
+
+      <div class="row">
+        <div class="col-sm-8">
+          <p><%= data.site.copyright %></p>
+        </div>
+        <div class="col-sm-4">
+          <p class="text-right"><small><%= data.site.credit %></small></p>
+        </div>
+      </div>
+
+    </footer>
+    
+  </div>
     <!-- /.container -->
 
 
