@@ -36,7 +36,8 @@ tagline: nil
   
   <% for partner_id in data.about.partners.keys %>
   
-  <div class="col-sm-4" style="height:450px;">
+  <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12" style="height:450px;">
+
     <% if(data.about.partners[partner_id].image != 'nil') %>
     <img class="img-responsive" src="<%= data.about.partners[partner_id].image %>">
     <% end %>

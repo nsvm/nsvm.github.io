@@ -201,14 +201,14 @@ footer {
 .navbar-custom {
     border-radius:0;
     border: none;
-    padding: 15px 0;
+    padding: 5px 0;
     background: url('/images/nsvm/header-footer.png');
 }
 
 .navbar-custom .navbar-nav > li > a {
     text-shadow: none;
     color: white;
-    font-size: 16px;
+    font-size: 14px;
     font-weight: bold;
     -webkit-border-radius: 3px;
     -moz-border-radius: 3px;
@@ -222,9 +222,8 @@ footer {
 
 .navbar-custom .navbar-brand {
     font-weight: bold;
-    font-size: 20px;
+    font-size: 24px;
     color:#eeeeee;
-    font-size: 30px;
     cursor: pointer;
     text-shadow: none;
     color: white;
