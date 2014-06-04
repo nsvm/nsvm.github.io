@@ -63,6 +63,8 @@ partners:
     linkedin: http://in.linkedin.com/in/anandgmenon/
     google_plus: nil
 
+customers_text: "We have customers from a wide cross section of industries: Manufacturing, services, real estate, Information Technology, start ups, Bio- tech ,Banks, Financial Institutions and so on………"
+
 customers:
   1:
     name: Crowl Ventures
