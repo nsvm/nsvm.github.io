@@ -17,7 +17,7 @@ services:
       5: Use of statistical tools and audit software packages
   2:
     name: Taxation
-    image: /images/nsvm/company_law.jpg
+    image: /images/nsvm/tax_return.jpg
     description: nil
     points:
       1: Advice to clients on all aspects of Tax planning suitable for their businesses
@@ -84,7 +84,7 @@ services:
       
   7:
     name: Banking Sector
-    image: /images/nsvm/company_law.jpg
+    image: /images/nsvm/banking_sector.jpg
     description: nil
     points:
       1: Concurrent Audits.
@@ -97,7 +97,7 @@ services:
       
   8:
     name: Accounting & Manangement
-    image: /images/nsvm/company_law.jpg
+    image: /images/nsvm/ac_mng.jpg
     description: <p>The firm through an independent associate arm undertakes onsite management of the entire Accounting and financial services including reporting requirements as required by the clients and all matters relating to statutory compliances.</p>
     points: nil
     
