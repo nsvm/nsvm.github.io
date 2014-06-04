@@ -202,14 +202,15 @@ footer {
 .navbar-custom {
     border-radius:0;
     border: none;
-    padding: 5px 0;
-    background: url('/images/nsvm/header-footer.png');
+    padding: 10px 0;
+    background-color: #ADD8E6;
 }
 
 .navbar-custom .navbar-nav > li > a {
     text-shadow: none;
-    color: white;
-    font-size: 14px;
+    color: #0f0f0f;
+    font-size: bold;
+    font-size: 16px;
     -webkit-border-radius: 3px;
     -moz-border-radius: 3px;
     border-radius: 3px;
