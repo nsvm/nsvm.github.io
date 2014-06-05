@@ -7,7 +7,7 @@ services:
 
   1:
     name: Statutory Audit
-    image: /images/nsvm/company_law.jpg
+    image: /images/nsvm/audit.jpg
     description: <p>We perform Statutory Audits for Private, Public and Government Companies under the Companies Act. We also undertake Tax audit of Companies, Firms and Proprietary concerns under The Income Tax Act. Our practises are compliant with Standards of Quality Control (SQC) set by the ICAI.We undertake and structure our Audits based on the requirements of each client but broadly involves the following </p> 
     points:
       1: A well structured Audit program inclusive of Sampling Techniques based on   client needs
@@ -29,7 +29,7 @@ services:
     
   3:
     name: Company Law & Legal
-    image: /images/nsvm/company_law.jpg
+    image: /images/nsvm/law-4.jpg
     description: nil
     points:
       1: Incorporation of Companies which includes the whole Gamut of services commencing from Name approval onwards.
@@ -40,7 +40,7 @@ services:
   
   4:
     name: Real Estate
-    image: /images/nsvm/company_law.jpg
+    image: /images/nsvm/real_estate_3.jpg
     description: nil
     points:
       1: Structuring and advice on Joint Development arrangements.
@@ -51,7 +51,7 @@ services:
   
   5:
     name: Start-Up Compnaies
-    image: /images/nsvm/company_law.jpg
+    image: /images/nsvm/startup3.jpg
     description: <p>Offering a One Stop solution to start up companies starting from Incorporation to the whole range of approvals required like EOU, VAT, EXCISE , Service tax, Shops and Establishments, Labour laws etc. It also provides advice on the entry strategies and support to Non Residents/overseas Companies wanting to set up shop in India.</p>
     points:
       1: Preparation of business plans and viability studies.
@@ -64,7 +64,7 @@ services:
       
   6:
     name: Internal Audits
-    image: /images/nsvm/company_law.jpg
+    image: /images/nsvm/internal_audit.jpg
     description: <p>Depending on the agreed scope of work with the client, the services could include any or all of the following areas.</p>
     points:
       1: Study and advise on systems and processes and suggest a suitable system for the organization
