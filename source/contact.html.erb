@@ -19,9 +19,13 @@ tagline: We'd Love to Hear From You!
     
     <p><%= data.contact.address %></p>
     
-    <p><i class="fa fa-phone"></i><abbr title="Phone">P</abbr>: <%= data.contact.phone %></p>
+    <p><i class="fa fa-phone"></i> <abbr title="Phone">P</abbr>: <%= data.contact.phone %></p>
+    <p><i class="fa fa-fax"></i><abbr title="Fax">Fax</abbr>: <%= data.contact.fax %></p>
     <p><i class="fa fa-envelope-o"></i> <abbr title="Email">E</abbr>: <a href="mailto:<%= data.contact.email %>"><%= data.contact.email %></a></p>
+
+    <% if(data.contact.working_hrs != 'nil') %>
     <p><i class="fa fa-clock-o"></i> <abbr title="Hours">H</abbr>: <%= data.contact.working_hrs %></p>
+    <% end %>
     
     <ul class="list-unstyled list-inline list-social-icons">
       
@@ -35,9 +39,11 @@ tagline: We'd Love to Hear From You!
       
     </ul>
     
+    <% if(1==2) %>
     <div class="col-sm-4">
       <img class="img-responsive" src="/images/nsvm/nsvm.png">
     </div>
+    <% end %>
     
   </div>
   
