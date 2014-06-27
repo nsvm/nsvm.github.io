@@ -8,6 +8,18 @@ carousels:
   1:
     image: /images/nsvm/main-03.jpg
     caption: ""
+  2:
+    image: /images/nsvm/main-01.jpg
+    caption: ""
+  3:
+    image: /images/nsvm/main-02.jpg
+    caption: ""
+  4:
+    image: /images/nsvm/main-07.jpg
+    caption: ""
+  5:
+    image: /images/nsvm/main-08.jpg
+    caption: ""
   
   
 highlights:
