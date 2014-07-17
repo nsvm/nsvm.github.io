@@ -24,7 +24,7 @@ tagline: nil
     <div class="<%= (carousel_id==1) ? 'item active' : 'item' %>">
       <div class="fill" style="background-image:url('<%= data.site.carousels[carousel_id].image %>');"></div>
       <div class="carousel-caption">
-        <h1><%= data.site.carousels[carousel_id].caption %></h1>
+        <h1 style="color:<%= data.site.carousels[carousel_id].caption_color %>"><%= data.site.carousels[carousel_id].caption %></h1>
       </div>
     </div>
 

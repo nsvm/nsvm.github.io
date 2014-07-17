@@ -7,10 +7,12 @@ brand: "/images/nsvm/nsvm-final-01.png"
 carousels:
   1:
     image: /images/nsvm/main-02.jpg
-    caption: ""
+    caption: "Banking & Finance"
+    caption_color: white
   2:
     image: /images/nsvm/main-08.jpg
-    caption: ""
+    caption: "Taxation & Audit"
+    caption_color: white
   
   
 highlights:
