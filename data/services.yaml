@@ -6,9 +6,9 @@ subtitle: nil
 services:
 
   1:
-    name: Statutory Audit
+    name: statutory Audit
     image: /images/nsvm/audit.jpg
-    description: <p>We perform Statutory Audits for Private, Public and Government Companies under the Companies Act. We also undertake Tax audit of Companies, Firms and Proprietary concerns under The Income Tax Act. Our practises are compliant with Standards of Quality Control (SQC) set by the ICAI.We undertake and structure our Audits based on the requirements of each client but broadly involves the following </p> 
+    description: <p>We perform Statutory Audits for Private, Public and Government Companies under the Companies Act. We also undertake Tax audit of Companies, Firms and Proprietary concerns under The Income Tax Act. Our practises are compliant with Standards of Quality Control (SQC) set by the ICAI.We undertake and structure our Audits based on the requirements of each client but broadly involves the following </p>
     points:
       1: A well structured Audit program inclusive of Sampling Techniques based on   client needs
       2: Following materiality concept and Reviewing Internal Controls
@@ -26,7 +26,7 @@ services:
       4: Advise clients on all compliances required such as TDS etc.
       5: Specialised services such as transfer pricing where it is applicable.
 
-    
+
   3:
     name: Company Law & Legal
     image: /images/nsvm/law-4.jpg
@@ -36,8 +36,8 @@ services:
       2: Advice and undertake compliances required under the Companies act.
       3: Handling issues such as liquidation of Companies, Managerial remuneration, Charges to be filed, etc
       4: The issues relating to mergers and acquisitions, and advise on Chapter9 Conversions
-  
-  
+
+
   4:
     name: Real Estate
     image: /images/nsvm/real_estate_3.jpg
@@ -47,8 +47,8 @@ services:
       2: All aspects of Mergers and demergers including valuations, Hiving of properties Into SPV and all technicalities involved in such transactions.
       3: Handling issues such as liquidation of Companies, Managerial remuneration, Charges to be filed, etc
       4: Advising clients on all aspects of such transactions including impact of Stamp duty, Income tax act including capital gains and structuring proposals accordingly.
-  
-  
+
+
   5:
     name: Start-Up Compnaies
     image: /images/nsvm/startup3.jpg
@@ -60,8 +60,8 @@ services:
       4: Debt structuring.
       5: Due diligence studies
       6: Investment advice including terms sheet, advise on structuring Shareholders Agreements, etc
-      
-      
+
+
   6:
     name: Internal Audits
     image: /images/nsvm/internal_audit.jpg
@@ -81,7 +81,7 @@ services:
       12: Inventory – age analysis, review and reporting of non moving stocks etc.
       13: Purchases
       14: Insurance and security of assets
-      
+
   7:
     name: Banking Sector
     image: /images/nsvm/banking_sector.jpg
@@ -94,13 +94,11 @@ services:
       5: Income Leakage Audits
       6: Credit Audits
       7: Risk Based Audits
-      
+
   8:
     name: Accounting & Manangement
     image: /images/nsvm/ac_mng.jpg
     description: <p>The firm through an independent associate arm undertakes onsite management of the entire Accounting and financial services including reporting requirements as required by the clients and all matters relating to statutory compliances.</p>
     points: nil
-    
-other_services: <p>Advise on EXIM policy related matters including necessary applications and Handling of paper work  and Advise on FEMA matters.</p><p>The firm also has a network of Consultants through whom it offers services on VAT and Service tax etc.</p>
 
-      
+other_services: <p>Advise on EXIM policy related matters including necessary applications and Handling of paper work  and Advise on FEMA matters.</p><p>The firm also has a network of Consultants through whom it offers services on VAT and Service tax etc.</p>
